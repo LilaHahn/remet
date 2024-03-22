@@ -1,0 +1,27 @@
+{
+  "name": "remet",
+  "version": "1.0.0",
+  "description": "Elegant, responsive, flexible and lightweight notification plugin with no dependencies.",
+  "readmeFilename": "README.md",
+  "main": "dist/js/iziToast.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LilaHahn/remet.git"
+  },
+  "keywords": [
+    "izitoast",
+    "ut",
+    "toaster",
+    "toast",
+    "message",
+    "ea",
+    "confirm",
+    "sed"
+  ],
+  "author": "VitoCremin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LilaHahn/remet.git/issues"
+  },
+  "homepage": "https://github.com/LilaHahn/remet.git"
+}
